@@ -9,7 +9,7 @@
 
 ## installation
 
-- clone/download this repo to your machine
+- clone or [download](https://github.com/adhocore/crx-jtrans/archive/master.zip) this repo to your machine
 - unzip as the folder `crx-jtrans`
 - open up your Google chrome browser and type `chrome://extensions/` at Address bar
     - or go to Chrome Settings > Extensions
