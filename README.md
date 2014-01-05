@@ -15,7 +15,7 @@
     - or go to Chrome Settings > Extensions
 - check/select the `Developer Mode` checkbox on top
 - then click `Load unpacked extension` and browse file system and the select `crx-jtrans` folder recently unzipped
-- if you see the button '?' at the top-right of the chrome browser beside the Address bar, you are Done !
+- if you see the button [unicode a](http://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Devanagari_a.svg/220px-Devanagari_a.svg.png) at the top-right of the chrome browser beside the Address bar, you are Done !
 
 
 ## features
