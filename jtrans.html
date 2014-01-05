@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+    <head>
+        <title>jTransliter - Translits romanised Nepali input to Unicode Nepali</title>
+        <link rel="stylesheet" type="text/css" href="jtrans.css" media="all" />
+    </head>
+    <body>
+        <p>jTransliter - Translits romanised Nepali input to Unicode Nepali.</p>
+        <textarea data-transliter="resume" id="jtrans-area" placeholder="Type here in Roman Nepali and press Space or Enter"></textarea>
+        <p>
+            <span id="jtrans-info">jTtransliter is active. Press Ctrl key to pause, Esc to close.</span>
+            <span id="jtrans-help" class="jtrans-action" title="Show/Hide the usage help">Help</span>
+            <span id="jtrans-copy" class="jtrans-action" title="Copy the translitered text to Clipboard">Copy</span>
+        </p>
+        <div>
+            <table id="jtrans-help-text" style="display:none;" cellpadding="0" cellspacing="0"></table>
+            <p>&copy; 2013 - 2014 &mdash; Jitendra Adhikari</p>
+        </div>
+        <script src="jtrans.js"></script>
+    </body>
+</html>

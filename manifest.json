@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "name": "jTransliter by Jitendra",
+  "description": "Translits romanised Nepali input to Unicode Nepali.",
+  "version": "1.0",
+  "browser_action": {
+    "default_icon": "jtrans.png",
+    "default_popup": "jtrans.html"
+  }
+}
