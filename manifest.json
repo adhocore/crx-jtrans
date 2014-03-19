@@ -6,5 +6,15 @@
   "browser_action": {
     "default_icon": "jtrans.png",
     "default_popup": "jtrans.html"
-  }
+  },
+  "commands": {
+      "_execute_browser_action": {
+         "suggested_key": {
+            "default": "Alt+N",
+            "linux": "Alt+N",
+            "mac": "Alt+N",
+            "windows": "Alt+N"
+         }
+      }
+   }
 }

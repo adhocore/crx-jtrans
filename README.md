@@ -24,6 +24,15 @@
 - easy usage: type in roman and press `Space` or `Enter` key 
 - reversible (back to roman for correction) translitered words: just press `Backspace` key
 - enable or disable the transliteration simply pressing `Ctrl` key
+- see change logs below for more
 
+## change logs
+
+#### 2014-03-19
+
+- added hotkey- Press Alt+N to launch
+- fixed reversal issue with some of the characters
+- added a semi-permanent save of latest text
+- more awesomeness ;)
 
 Thats all !
