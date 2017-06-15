@@ -7,6 +7,7 @@
     "default_icon": "jtrans.png",
     "default_popup": "jtrans.html"
   },
+  "permissions": ["contextMenus"],
   "commands": {
       "_execute_browser_action": {
          "suggested_key": {
